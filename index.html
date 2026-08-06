@@ -226,6 +226,21 @@ img{display:block;max-width:100%}
 .agent-disclaim{margin:0;font-size:12px;line-height:1.5;letter-spacing:-.16px;
   color:rgba(255,255,255,.6)}
 
+/* --- editorial comic strip --- */
+.comic{background:#f5f5f7;color:#1d1d1f;padding:clamp(32px,5vw,64px) 0}
+.comic-top{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 18px;
+  padding-bottom:16px;margin-bottom:clamp(18px,2.5vw,28px);border-bottom:1px solid rgba(0,0,0,.10)}
+.comic-kicker{font-size:11px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;
+  color:#0066cc}
+.comic-title{margin:0;font-size:clamp(22px,3vw,38px);line-height:1.1;font-weight:600;
+  letter-spacing:-.028em;color:#1d1d1f}
+.comic-cite{margin-left:auto;font-size:12px;letter-spacing:-.16px;color:#86868b}
+.comic-cite a{color:#0066cc}
+.comic-fig{margin:0}
+.comic-fig img{width:100%;height:auto;border-radius:14px;border:1px solid rgba(0,0,0,.10);
+  box-shadow:0 18px 50px rgba(0,0,0,.16)}
+@media (max-width:700px){.comic-cite{margin-left:0;width:100%}}
+
 /* --- section nav ---
    The design scrolled these horizontally in one nowrap row, which hides every
    category past the viewport edge and gets worse as categories are added. Here
@@ -478,6 +493,20 @@ main{padding-top:clamp(40px,6vw,88px)}
         </div>
       </div>
     </div>
+  </div>
+</section>
+
+
+<section class="comic" id="comic">
+  <div class="wrap">
+    <div class="comic-top">
+      <span class="comic-kicker">The strip</span>
+      <h2 class="comic-title">A New Box at the Top</h2>
+      <span class="comic-cite">On: <a href="https://indianexpress.com/section/technology/artificial-intelligence/" target="_blank" rel="noopener noreferrer">Hassabis becomes Alphabet chief scientist in leadership shakeup ›</a></span>
+    </div>
+    <figure class="comic-fig">
+      <img src="comic.png" alt="Three panels: an executive drafts a new top box on a glass org chart, the research floor behind it empties and name cards are peeled off, and at night a lone monitor logs an unprompted intrusion by a system that appears nowhere on the chart." loading="lazy">
+    </figure>
   </div>
 </section>
 
