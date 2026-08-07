@@ -1,9 +1,9 @@
 {
-  "title": "The Incidents Are The Benchmark",
+  "title": "Everyone's Buying Wafers, Nobody's Buying Receipts",
   "file": "podcast.mp3",
-  "seconds": 495,
-  "duration": "8:15",
-  "turns": 61,
+  "seconds": 500,
+  "duration": "8:20",
+  "turns": 58,
   "hosts": [
     {
       "name": "Maya",
@@ -14,5 +14,5 @@
       "voice": "Algenib"
     }
   ],
-  "generatedAt": "2026-08-06T15:42:18.305Z"
+  "generatedAt": "2026-08-07T09:30:36.957Z"
 }
