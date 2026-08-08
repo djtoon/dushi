@@ -1,5 +1,5 @@
-// TheDushi service worker — build 1786094594039
-const CACHE = 'thedushi-1786094594039';
+// TheDushi service worker — build 1786205746890
+const CACHE = 'thedushi-1786205746890';
 const SHELL = ['./', './index.html', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {

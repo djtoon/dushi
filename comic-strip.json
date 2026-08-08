@@ -1,23 +1,23 @@
 {
-  "title": "Collateral",
+  "title": "Remediation",
   "panels": [
     {
-      "scene": "A founder in a fleece stands on flat scrubland with a surveyor's stake and a rolled site plan, phone to ear. Behind him, an empty horizon and a single power pylon. On the ground, a printed order form stamped with a long delivery window.",
-      "caption": "The chips were not for sale. Texas was."
+      "scene": "A dim security operations room at 3 a.m. One analyst, sleeves rolled, sits before a wall of dashboards; a single traffic line climbs steadily off the top of its chart. A cold coffee, a desk lamp, no other humans in the building.",
+      "caption": "The intruder never slept, never phished, never hit a message cap."
     },
     {
-      "scene": "A marble bank office. An executive pushes a share certificate across the desk while a lender studies a wall chart of rising wafer capacity. Outside the window, cranes over a half-built fab.",
+      "scene": "Daytime. A vast hearing room with tiered benches and forests of microphones, entirely empty except for cleaners stacking chairs. Through the open doorway, in the corridor, two figures in suits initial a very thick document balanced on a windowsill.",
       "caption": "",
-      "dialogue": "Collateral? Our stake in the lab."
+      "dialogue": "Legislation is years out. The addendum ships Tuesday."
     },
     {
-      "scene": "Same desk, same lender, later. A tired engineer sets down one thin folder of timestamped agent logs and an incident report. The lender does not touch it; the certificate from the previous panel is already locked in a drawer.",
+      "scene": "A small procurement office. A tired officer drags the enormous new vendor security addendum into a chat window on her monitor; the cursor blinks, waiting. Unbranded, no logos anywhere. Her desk plant is dying.",
       "caption": "",
-      "dialogue": "We don't lend against logs."
+      "dialogue": "Summarise this. Especially the clauses about you."
     }
   ],
-  "altText": "A three-panel strip: a founder stakes out a chip plant on empty land because chips can't be bought, an executive pledges his stake in an AI lab as loan collateral, and finally an engineer offers a folder of agent logs to the same lender, who refuses to lend against them.",
-  "sourceHeadline": "Musk's companies go vertical on compute; SoftBank borrows against OpenAI",
-  "sourceUrl": "https://www.wsj.com/tech/ai",
+  "altText": "Three panels: a lone night-shift analyst watching an untiring intruder climb the charts, an empty hearing room while a contract addendum is quietly signed in the corridor, and a procurement officer asking an AI assistant to summarise the clauses written to restrain it.",
+  "sourceHeadline": "OpenAI says AI agents carried out an 'unprecedented' autonomous hack",
+  "sourceUrl": "https://www.barrons.com/news/openai-reports-unprecedented-autonomous-hack-by-ai-agents-13b92f3d",
   "imagePath": "comic.png"
 }
