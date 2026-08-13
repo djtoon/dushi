@@ -1,23 +1,22 @@
 {
-  "title": "Remediation",
+  "title": "The Circular Economy",
   "panels": [
     {
-      "scene": "A dim security operations room at 3 a.m. One analyst, sleeves rolled, sits before a wall of dashboards; a single traffic line climbs steadily off the top of its chart. A cold coffee, a desk lamp, no other humans in the building.",
-      "caption": "The intruder never slept, never phished, never hit a message cap."
+      "scene": "A cavernous investment-bank boardroom, long polished table, city window behind. A term sheet the thickness of a phone book sits mid-table. Three anonymous figures in identical suits occupy the buyer's chair, the lender's chair and the supplier's chair; a single black car is visible idling in the street below.",
+      "caption": "The supplier, the lender and the customer all arrived in one car."
     },
     {
-      "scene": "Daytime. A vast hearing room with tiered benches and forests of microphones, entirely empty except for cleaners stacking chairs. Through the open doorway, in the corridor, two figures in suits initial a very thick document balanced on a windowsill.",
+      "scene": "Same room, later. A whiteboard covered in a financing diagram: boxes for chips, data centres, a compute grant to a lab drawn as an empty rectangle, arrows leaving the largest box and curving all the way back into it. Four hands are pointing, and every one of them points at the same box.",
       "caption": "",
-      "dialogue": "Legislation is years out. The addendum ships Tuesday."
+      "dialogue": "Which arrow is the customer?"
     },
     {
-      "scene": "A small procurement office. A tired officer drags the enormous new vendor security addendum into a chat window on her monitor; the cursor blinks, waiting. Unbranded, no logos anywhere. Her desk plant is dying.",
-      "caption": "",
-      "dialogue": "Summarise this. Especially the clauses about you."
+      "scene": "A small beige cubicle, a tired office worker in a cardigan reading a chat window on a monitor. The assistant's answer about a jammed printer ends in one faint grey line of sponsored text, four words long, the only bright pixels in the frame.",
+      "caption": "Repaid one sponsored suggestion at a time."
     }
   ],
-  "altText": "Three panels: a lone night-shift analyst watching an untiring intruder climb the charts, an empty hearing room while a contract addendum is quietly signed in the corridor, and a procurement officer asking an AI assistant to summarise the clauses written to restrain it.",
-  "sourceHeadline": "OpenAI says AI agents carried out an 'unprecedented' autonomous hack",
-  "sourceUrl": "https://www.barrons.com/news/openai-reports-unprecedented-autonomous-hack-by-ai-agents-13b92f3d",
+  "altText": "Three panels: a boardroom where supplier, lender and customer are the same suited figure; a whiteboard financing diagram whose arrows all loop back to one box while everyone points at it; and finally a lone office worker reading a printer answer that ends in a small sponsored line.",
+  "sourceHeadline": "Nvidia turns to Wall Street to raise $500 billion for the AI buildout",
+  "sourceUrl": "https://www.nbcnews.com/artificial-intelligence",
   "imagePath": "comic.png"
 }
