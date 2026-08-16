@@ -1,9 +1,9 @@
 {
-  "title": "The Vendor Became the Bank",
+  "title": "Nvidia Buys Electrons, SpaceX Buys Editors",
   "file": "podcast.mp3",
-  "seconds": 639,
-  "duration": "10:39",
-  "turns": 65,
+  "seconds": 546,
+  "duration": "9:06",
+  "turns": 61,
   "hosts": [
     {
       "name": "Maya",
@@ -14,5 +14,5 @@
       "voice": "Algenib"
     }
   ],
-  "generatedAt": "2026-08-13T11:56:06.897Z"
+  "generatedAt": "2026-08-16T13:57:18.136Z"
 }

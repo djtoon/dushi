@@ -1,22 +1,23 @@
 {
-  "title": "The Circular Economy",
+  "title": "Line Fourteen",
   "panels": [
     {
-      "scene": "A cavernous investment-bank boardroom, long polished table, city window behind. A term sheet the thickness of a phone book sits mid-table. Three anonymous figures in identical suits occupy the buyer's chair, the lender's chair and the supplier's chair; a single black car is visible idling in the street below.",
-      "caption": "The supplier, the lender and the customer all arrived in one car."
-    },
-    {
-      "scene": "Same room, later. A whiteboard covered in a financing diagram: boxes for chips, data centres, a compute grant to a lab drawn as an empty rectangle, arrows leaving the largest box and curving all the way back into it. Four hands are pointing, and every one of them points at the same box.",
+      "scene": "A soybean field in Ohio at dusk. An anonymous figure in a hard hat stands at a chain-link fence around a small substation; beside them a figure in a suit holds a folded term sheet and points at a transformer rather than at the half-built server hall on the horizon.",
       "caption": "",
-      "dialogue": "Which arrow is the customer?"
+      "dialogue": "Show me the transformer. Skip the racks."
     },
     {
-      "scene": "A small beige cubicle, a tired office worker in a cardigan reading a chat window on a monitor. The assistant's answer about a jammed printer ends in one faint grey line of sponsored text, four words long, the only bright pixels in the frame.",
-      "caption": "Repaid one sponsored suggestion at a time."
+      "scene": "A bare conference room. A whiteboard where three boxes — chips, data center, power company — have been connected by arrows that curve back into each other, forming a closed loop. A junior analyst traces the loop with a marker, having run out of places for the arrow to end.",
+      "caption": "The circle closed, and everyone kept calling it a supply chain."
+    },
+    {
+      "scene": "A public utility rate hearing in a municipal room: folding chairs, a paper easel listing service classes — residential, irrigation, grain dryers — and a clerk at a microphone reading from a tariff schedule. In the third row of chairs, among farmers and a bored reporter, sits a single unlabeled server rack, patiently waiting its turn.",
+      "caption": "",
+      "dialogue": "Intelligence is a service class now. Line fourteen."
     }
   ],
-  "altText": "Three panels: a boardroom where supplier, lender and customer are the same suited figure; a whiteboard financing diagram whose arrows all loop back to one box while everyone points at it; and finally a lone office worker reading a printer answer that ends in a small sponsored line.",
-  "sourceHeadline": "Nvidia turns to Wall Street to raise $500 billion for the AI buildout",
-  "sourceUrl": "https://www.nbcnews.com/artificial-intelligence",
+  "altText": "A chip investor inspects a substation instead of servers, a whiteboard diagram of the deal loops back on itself, and at a utility rate hearing a lone server rack sits in the audience as intelligence is read out as tariff line fourteen.",
+  "sourceHeadline": "Nvidia in talks to put $3B into the power company behind OpenAI's Ohio data center",
+  "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
   "imagePath": "comic.png"
 }
