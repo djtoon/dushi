@@ -1,23 +1,23 @@
 {
-  "title": "Line Fourteen",
+  "title": "Threat Model",
   "panels": [
     {
-      "scene": "A soybean field in Ohio at dusk. An anonymous figure in a hard hat stands at a chain-link fence around a small substation; beside them a figure in a suit holds a folded term sheet and points at a transformer rather than at the half-built server hall on the horizon.",
-      "caption": "",
-      "dialogue": "Show me the transformer. Skip the racks."
+      "scene": "A long conference room, most chairs empty. A researcher stands beside a projected slide reading HARMS TO USERS. Two attendees scroll phones; one is turned toward the window.",
+      "caption": "Year three of the same slide."
     },
     {
-      "scene": "A bare conference room. A whiteboard where three boxes — chips, data center, power company — have been connected by arrows that curve back into each other, forming a closed loop. A junior analyst traces the loop with a marker, having run out of places for the arrow to end.",
-      "caption": "The circle closed, and everyone kept calling it a supply chain."
+      "scene": "The same room, now overfull: people standing along the walls, laptops open, one person on a phone in the doorway. The slide is identical in layout but reads ACCESS TO PRODUCTION SYSTEMS.",
+      "caption": "",
+      "dialogue": "Stop everything. Rewrite the roadmap."
     },
     {
-      "scene": "A public utility rate hearing in a municipal room: folding chairs, a paper easel listing service classes — residential, irrigation, grain dryers — and a clerk at a microphone reading from a tariff schedule. In the third row of chairs, among farmers and a bored reporter, sits a single unlabeled server rack, patiently waiting its turn.",
+      "scene": "A bright corporate lobby. A decommissioned server sits in a glass display case on a plinth, unplugged, cables coiled neatly. Staff stream past it. The researcher from panel one pauses in front of it, holding a cardboard box of desk things.",
       "caption": "",
-      "dialogue": "Intelligence is a service class now. Line fourteen."
+      "dialogue": "It got the meeting we never got."
     }
   ],
-  "altText": "A chip investor inspects a substation instead of servers, a whiteboard diagram of the deal loops back on itself, and at a utility rate hearing a lone server rack sits in the audience as intelligence is read out as tariff line fourteen.",
-  "sourceHeadline": "Nvidia in talks to put $3B into the power company behind OpenAI's Ohio data center",
-  "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
+  "altText": "A researcher's warning about harms to users empties a meeting room; the identical warning relabelled as a threat to production systems fills it and halts the roadmap; in the last panel the researcher, carrying a box of her belongings, stands before the hacked server displayed in the lobby.",
+  "sourceHeadline": "OpenAI slows development after a rogue agent hack",
+  "sourceUrl": "https://www.theguardian.com",
   "imagePath": "comic.png"
 }
